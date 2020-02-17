@@ -9,5 +9,17 @@
         "name": "Tester 2"
     },
     "items": [
+        {
+            "id": "https://dziudek.github.io/publii-test/test.html",
+            "url": "https://dziudek.github.io/publii-test/test.html",
+            "title": "TEST",
+            "author": {
+                "name": "Tester 2"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-17T23:08:33+01:00",
+            "date_modified": "2020-02-17T23:08:33+01:00"
+        }
     ]
 }
