@@ -3,21 +3,21 @@
     <title>Github 2</title>
     <link href="https://dziudek.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://dziudek.github.io/publii-test" />
-    <updated>2020-02-17T23:08:33+01:00</updated>
+    <updated>2020-09-04T20:43:58+02:00</updated>
     <author>
         <name>Tester 2</name>
     </author>
     <id>https://dziudek.github.io/publii-test</id>
 
     <entry>
-        <title>TEST</title>
+        <title>TEST - changed</title>
         <author>
             <name>Tester 2</name>
         </author>
         <link href="https://dziudek.github.io/publii-test/test.html"/>
         <id>https://dziudek.github.io/publii-test/test.html</id>
 
-        <updated>2020-02-17T23:08:33+01:00</updated>
+        <updated>2020-09-04T20:43:58+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
